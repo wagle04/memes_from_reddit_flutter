@@ -340,7 +340,8 @@ class _MyHomePageState extends State<MyHomePage> {
                                 child: Column(
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: <Widget>[
-                                    Text('Downloading Posts'),
+                                    Text(
+                                        'Downloading ${limit * MyHomePage.subreddit.length} Posts'),
                                     Padding(
                                       padding: const EdgeInsets.all(8.0),
                                       child: Center(
