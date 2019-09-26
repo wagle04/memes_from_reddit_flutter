@@ -48,8 +48,6 @@ class _PostViewsState extends State<PostViews> {
     return WillPopScope(
       onWillPop: () async {
         print("back pressed");
-        MyHomePage.postList = [];
-        MyHomePage.subreddit = [];
         SharedPreferences prefs = await SharedPreferences.getInstance();
         await prefs.setBool('downloaded', true);
         SystemChannels.platform.invokeMethod('SystemNavigator.pop');

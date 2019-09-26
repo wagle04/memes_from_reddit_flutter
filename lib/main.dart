@@ -114,6 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
     if (response.statusCode == 200) {
       //return response;
       print("Success");
+      writeFile(" ");
       List<dynamic> jsonfile = await JSON.jsonDecode(response.body);
 
       MyHomePage.postList = [];
@@ -154,7 +155,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    writeFile(" ");
     return WillPopScope(
       onWillPop: () {
         print("back pressed");

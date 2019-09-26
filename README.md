@@ -11,8 +11,8 @@ All the content are from specific subreddit.
 - [Demo Video](https://drive.google.com/file/d/1VCWKt7ZqP48LONAAKOyYJgx-XZU2jm-1/view?usp=sharing)
 
 # Download App and try
-- [armeabi version](https://drive.google.com/file/d/1Vif8uF84s_-6CvNnV19cs1DZfQ5PywX5/view?usp=sharing)
-- [arm64 version](https://drive.google.com/file/d/1h6HkN8aCIvNjCvUAWZ8hx97VQzjAdBn4/view?usp=sharing)
+- [armeabi version](https://drive.google.com/file/d/1-Evek1fNV7F-zLf5kQ3h_c5P5mx1b1cd/view?usp=sharing)
+- [arm64 version](https://drive.google.com/file/d/1YoHqe9zW8mU4LF07mGAKVjINwyjZFWpc/view?usp=sharingg)
 
 ## Getting Started
 
