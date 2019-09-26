@@ -1,9 +1,9 @@
 # memes_from_reddit
 
-A new Flutter project to get memes from reddit from specific subreddit.
-Download memes when online, browse memes when offline  😁😁 !
-The more the number of post, the more time it takes to download !
-App creator is not responsible for the content shown in the application.
+A new Flutter project to get memes from reddit from specific subreddit. \n
+Download memes when online, browse memes when offline  😁😁 ! \n
+The more the number of post, the more time it takes to download ! \n
+App creator is not responsible for the content shown in the application.\n
 All the content are from specific subreddit.
 
 # Demo
