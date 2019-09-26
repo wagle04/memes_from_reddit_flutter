@@ -1,6 +1,14 @@
 # memes_from_reddit
 
-A new Flutter project.
+A new Flutter project to get memes from reddit from specific subreddit.
+
+# Demo
+
+- [Demo Link](https://drive.google.com/file/d/1VCWKt7ZqP48LONAAKOyYJgx-XZU2jm-1/view?usp=sharing)
+
+# Download App and try
+- [armeabi version](https://drive.google.com/file/d/1Vif8uF84s_-6CvNnV19cs1DZfQ5PywX5/view?usp=sharing)
+- [arm64 version](https://drive.google.com/file/d/1h6HkN8aCIvNjCvUAWZ8hx97VQzjAdBn4/view?usp=sharing)
 
 ## Getting Started
 
